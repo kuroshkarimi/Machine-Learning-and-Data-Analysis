@@ -1,3 +1,2 @@
 # Project
-This file contains different Projects related to data analysis written in Jupyter Notebook.
-The explanations about the projects could be found at each relevant file
+This repository has different folders, containing classic machine learning, deep learning and data analysis projects.
